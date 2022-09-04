@@ -1,5 +1,5 @@
 # Tokyo Light Obsidian Theme
-A Light and Dark theme for [Obsidian](https://obsidian.md/) __forked from [Tokyo Dark Obisidian Theme](https://github.com/lokesh-krishna/Tokyo-Night-Obsidian-Theme)__
+Light and Dark theme for [Obsidian](https://obsidian.md/) __forked from [Tokyo Dark Obisidian Theme](https://github.com/lokesh-krishna/Tokyo-Night-Obsidian-Theme)__
 
 ![Light](./light.png)
 ![Dark](./dark.png)
